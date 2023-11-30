@@ -1,2 +1,5 @@
 srcFile.txt
 # *.txt //It means all the files with txt extension will be ignored
+swift-2048/
+
+# swift-2048/* // The trailing slash indicates that it's a directory. If you want to ignore all directories with the name swift-2048  
