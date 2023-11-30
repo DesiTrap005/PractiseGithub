@@ -1,0 +1,2 @@
+srcFile.txt
+# *.txt //It means all the files with txt extension will be ignored
